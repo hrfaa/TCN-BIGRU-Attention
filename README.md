@@ -1,2 +1,2 @@
-# text
+# explanation and illustration
 The document consists of two main parts. One part is the primary model, located in the 'module' folder, where different optimization algorithms can be tested within the main model file. The other part is the ablation study, which is divided into optimization algorithm ablation and model ablation. In the model ablation, there are five common files that can be modified according to needs. The algorithm ablation includes three optimization algorithm models.
